@@ -1,0 +1,1 @@
+CREATE INDEX IX_Student_ClassID ON Student (ClassID);
